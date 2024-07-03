@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandre Morais</h1>
-<h3 align="center">A passionate Front-end JavaSCript Developer from Brazil</h3>
+<h3 align="center">A passionate Front-end JavaScript Developer from Brazil</h3>
 
 
 
